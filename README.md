@@ -9,6 +9,8 @@ The customer can cancel an order at any point in time before delivery (TODO, upd
 If an order is canceled, the driver is notified via the app. He can then sell to any customer on the route.
 Once a delivery is made, the driver update the app. 
 
+## Notes
+
 
 # Team Members
 * Kimberly
