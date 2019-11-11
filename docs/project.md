@@ -1,11 +1,6 @@
 <!--
-|User Story      			|Member		|Date Assigned	|Due Date       |Date Completed	|Comments			|
-|:--------------------------------------|:--------------|:--------------|:--------------|:--------------|:------------------------------|
-|Created Backlog table			| Kumar 	| 9-Nov-2019 	| 10-Nov-2019 	| 10-Nov-2019	|				|
-|Send SRS document to the group 	|Jayron		| 9-Nov-2019	| 10-Nov-2019	| 		|				|
-|Provide Weekly Task for first Sprint	| Kumar		| 9-Nov-2019	| 13-Nov-2019	|		|Required to read SRS and plan	|
-|					|		|		|		|		|Backlog.			|
-Mark Down Comments
+//Mark Down Comments
+Documents are written in a markdown format and converted to pdf with a tool 'pandoc'
 
 Pdf build command on Kumar machine
 
@@ -14,6 +9,9 @@ pandoc -s -F pantable -o backlog.pdf backlog.md
 vim command 
 
 :!pandoc -s -F pantable -o %:r.pdf %
+
+// There is an extension pantable that reads the data between ```{.table} and ``` and generate a table based on comma seperated values
+The data between --- and --- are yaml configuration data
 
 -->
 ---
