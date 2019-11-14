@@ -53,5 +53,8 @@ C9, Customer, Check my current balance, I can determine how much is due to the B
 C10, Customer, Print an invoice, I have a physical copy of an invoice, Must, 3, TBD
 C11, Customer, View a listing of all Invoices, I can view my history, Must, 3, TBD
 C12, Customer, Log out of my account, Only I can make purchases on my account, Must, 2, TBD
+
+D1, Driver, View Invoices, I can view the customers' history, 3, TBD
+D2, Driver, Update Customer Order status, I can record when customer orders have been delivered, 4, TBD
 ```
 
