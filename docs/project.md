@@ -19,7 +19,7 @@ title:
 - 'Project'
 author:
 - Kumar Sookram
-- Kimberley
+- Kimberley Gillette
 - Jayron
 theme:
 - Berkeley
