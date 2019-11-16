@@ -15,4 +15,4 @@ Once a delivery is made, the driver update the app.
 # Team Members
 * Kimberley Gillette
 * Kumar
-* Jayron
+* Jayron Williams
