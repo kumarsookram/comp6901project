@@ -20,7 +20,7 @@ title:
 author:
 - Kumar Sookram
 - Kimberley Gillette
-- Jayron
+- Jayron Williams
 theme:
 - Berkeley
 geometry:
@@ -54,4 +54,11 @@ C10, Customer, Print an invoice, I have a physical copy of an invoice, Must, 3, 
 C11, Customer, View a listing of all Invoices, I can view my history, Must, 3, TBD
 C12, Customer, Log out of my account, Only I can make purchases on my account, Must, 2, TBD
 ```
-
+S1, Sales Representative, Login to App, View customer standing orders daily, Must, 2, TBD
+S2, Sales Representative, Notified of incorrect credentials, I can re-enter correct credentials, Must, 2, TBD
+S3, Sales Representative, Create a new customer account, Add a customer to the system, Must, 2, TBD
+S4, Sales Representative, Create / Modify Customer Standing Orders, Update Customer order information, Must, 2, TBD
+S5, Sales Representative, Modify item listing, make changes to the product listing (changes in prices, new products), Must, 3, TBD
+S6, Sales Representative, Generate Reports, report Analysis (Monthly, weekely, Yearly reports), Must, 3, TBD
+S7, Sales Representative, Update Customer Information, modify customer Information, Must, 2, TBD
+```
